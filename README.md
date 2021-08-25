@@ -9,3 +9,13 @@ Given two strings s and t, return true if they are equal when both are typed int
 
 
 SOLUTION CODE StringCompare.cpp
+
+
+### Q2
+Given the head of a singly linked list, return true if it is a palindrome.
+
+
+[Reference](https://leetcode.com/problems/palindrome-linked-list/)
+
+
+SOLUTION CODE PalindromeLinkedList.cpp
