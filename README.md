@@ -37,3 +37,15 @@ You are given two non-empty linked lists representing two non-negative integers.
 
 
 SOLUTION CODE AddTwoNumbers.cpp
+
+
+### Q5
+
+
+Given a string s, find the first non-repeating character in it and return its index. If it does not exist, return -1.
+
+
+[Reference](https://leetcode.com/problems/first-unique-character-in-a-string/)
+
+
+SOLUTION CODE UniqueChar.cpp
