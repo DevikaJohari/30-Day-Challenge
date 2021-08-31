@@ -60,3 +60,14 @@ Given n non-negative integers a1, a2, ..., an , where each represents a point at
 
 
 SOLUTION CODE Container.cpp
+
+
+### Q7
+
+Given a string s, find the length of the longest substring without repeating characters.
+
+
+[Reference](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+
+
+SOLUTION CODE LongestSubstring.cpp
