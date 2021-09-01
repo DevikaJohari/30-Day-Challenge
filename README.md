@@ -1,4 +1,4 @@
-# 7-Day-Challenge
+# 30-Day-Challenge
 
 
 ### Q1
@@ -71,3 +71,14 @@ Given a string s, find the length of the longest substring without repeating cha
 
 
 SOLUTION CODE LongestSubstring.cpp
+
+
+### Q8
+
+Given a string s, return the longest palindromic substring in s.
+
+
+[Reference](https://leetcode.com/problems/longest-palindromic-substring/)
+
+
+SOLUTION CODE PalindromeSubstring.cpp
