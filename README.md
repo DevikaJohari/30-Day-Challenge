@@ -81,4 +81,4 @@ Given a string s, return the longest palindromic substring in s.
 [Reference](https://leetcode.com/problems/longest-palindromic-substring/)
 
 
-SOLUTION CODE PalindromeSubstring.cpp
+SOLUTION CODE PanlindromeSubstring.cpp
