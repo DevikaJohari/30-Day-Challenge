@@ -93,3 +93,14 @@ Roman numerals are represented by seven different symbols: I, V, X, L, C, D and 
 
 
 SOLUTION CODE RomanNo.cpp
+
+
+### Q10
+
+Given an integer array nums, return all the triplets [nums[i], nums[j], nums[k]] such that i != j, i != k, and j != k, and nums[i] + nums[j] + nums[k] == 0.
+
+
+[Reference](https://leetcode.com/problems/3sum/)
+
+
+SOLUTION CODE 3Sum.cpp
