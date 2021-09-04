@@ -104,3 +104,14 @@ Given an integer array nums, return all the triplets [nums[i], nums[j], nums[k]]
 
 
 SOLUTION CODE 3Sum.cpp
+
+
+### Q11
+
+Given the head of a linked list, remove the nth node from the end of the list and return its head.
+
+
+[Reference](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+
+
+SOLUTION CODE RemoveNthNode.cpp
