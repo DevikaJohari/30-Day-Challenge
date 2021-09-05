@@ -115,3 +115,13 @@ Given the head of a linked list, remove the nth node from the end of the list an
 
 
 SOLUTION CODE RemoveNthNode.cpp
+
+
+### Q12
+Given a linked list, swap every two adjacent nodes and return its head. You must solve the problem without modifying the values in the list's nodes (i.e., only nodes themselves may be changed.)
+
+
+[Reference](https://leetcode.com/problems/swap-nodes-in-pairs/)
+
+
+SOLUTION CODE SwapNode.cpp
