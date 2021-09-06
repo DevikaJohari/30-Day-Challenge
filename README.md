@@ -125,3 +125,13 @@ Given a linked list, swap every two adjacent nodes and return its head. You must
 
 
 SOLUTION CODE SwapNode.cpp
+
+
+### Q13
+Given the head of a linked list, rotate the list to the right by k places.
+
+
+[Reference](https://leetcode.com/problems/rotate-list/)
+
+
+SOLUTION CODE RotateList.cpp
