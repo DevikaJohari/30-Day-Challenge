@@ -145,3 +145,12 @@ Given a string array words, return the maximum value of length(word[i]) * length
 
 
 SOLUTION CODE MaxProductlen.cpp
+
+
+### Q15
+Given an integer array nums of length n and an integer target, find three integers in nums such that the sum is closest to target.
+
+[Reference](https://leetcode.com/problems/3sum-closest/)
+
+
+SOLUTION CODE 3SumClosest.cpp
