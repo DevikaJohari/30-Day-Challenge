@@ -172,3 +172,13 @@ Given an integer array nums sorted in non-decreasing order, remove the duplicate
 
 
 SOLUTION CODE RemoveDul.cpp
+
+
+### Q18
+Write a function to find the longest common prefix string amongst an array of strings.
+
+[Reference](https://leetcode.com/problems/longest-common-prefix/)
+
+
+SOLUTION CODE LongestedPrefix.cpp
+
