@@ -182,3 +182,11 @@ Write a function to find the longest common prefix string amongst an array of st
 
 SOLUTION CODE LongestedPrefix.cpp
 
+
+### Q19
+Given the head of a singly linked list, reverse the list, and return the reversed list.
+
+[Reference](https://leetcode.com/problems/reverse-linked-list/)
+
+
+SOLUTION CODE ReverseRecursion.cpp
