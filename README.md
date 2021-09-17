@@ -190,3 +190,12 @@ Given the head of a singly linked list, reverse the list, and return the reverse
 
 
 SOLUTION CODE ReverseRecursion.cpp
+
+
+### Q20
+Given an integer array nums and an integer val, remove all occurrences of val in nums in-place. The relative order of the elements may be changed.
+
+[Reference](https://leetcode.com/problems/remove-element/)
+
+
+SOLUTION CODE RemoveElement.cpp
