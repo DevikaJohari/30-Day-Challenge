@@ -12,9 +12,9 @@ int removeElement(vector<int> &nums,int val)
             if(nums[i]==val)
             {
                 int j=i+1;
-                while(j<n && nums[j]==val)
+                while(j<len && nums[j]==val)
                     j++;
-                if(j==n)
+                if(j==len)
                     return i;
                 swap(nums[j],nums[i]);
             }
