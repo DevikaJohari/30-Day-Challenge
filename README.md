@@ -199,3 +199,12 @@ Given an integer array nums and an integer val, remove all occurrences of val in
 
 
 SOLUTION CODE RemoveElement.cpp
+
+
+### Q21
+Given a string s consisting of some words separated by some number of spaces, return the length of the last word in the string.
+
+[Reference](https://leetcode.com/problems/length-of-last-word/)
+
+
+SOLUTION CODE LenOfLastWord.cpp
