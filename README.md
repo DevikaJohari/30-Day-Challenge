@@ -208,3 +208,11 @@ Given a string s consisting of some words separated by some number of spaces, re
 
 
 SOLUTION CODE LenOfLastWord.cpp
+
+
+### Q22
+Given the head of a sorted linked list, delete all nodes that have duplicate numbers, leaving only distinct numbers from the original list. Return the linked list sorted as well.
+[Reference](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)
+
+
+SOLUTION CODE RemoveDul.cpp
