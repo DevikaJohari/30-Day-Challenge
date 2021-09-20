@@ -216,3 +216,11 @@ Given the head of a sorted linked list, delete all nodes that have duplicate num
 
 
 SOLUTION CODE RemoveDulLL.cpp
+
+
+### Q23
+Given two sorted arrays nums1 and nums2 of size m and n respectively, return the median of the two sorted arrays.
+[Reference](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+
+
+SOLUTION CODE Median.cpp
