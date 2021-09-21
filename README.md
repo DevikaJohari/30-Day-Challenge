@@ -224,3 +224,11 @@ Given two sorted arrays nums1 and nums2 of size m and n respectively, return the
 
 
 SOLUTION CODE Median.cpp
+
+
+### Q24
+Modify a Circular Doubly Linked List such that each node stores the sum of all nodes except itself
+[Reference](https://www.geeksforgeeks.org/modify-a-circular-doubly-linked-list-such-that-each-node-stores-the-sum-of-all-nodes-except-itself/)
+
+
+SOLUTION CODE SumOfNode.cpp
