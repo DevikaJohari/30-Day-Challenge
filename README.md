@@ -235,3 +235,12 @@ Modify a Circular Doubly Linked List such that each node stores the sum of all n
 
 
 SOLUTION CODE SumOfNode.cpp
+
+
+### Q25
+Remove all the Even Digit Sum Nodes from a Circular Singly Linked List
+
+[Reference](https://www.geeksforgeeks.org/remove-all-the-even-digit-sum-nodes-from-a-circular-singly-linked-list/)
+
+
+SOLUTION CODE EvenDigitSum.cpp
