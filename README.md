@@ -244,3 +244,12 @@ Remove all the Even Digit Sum Nodes from a Circular Singly Linked List
 
 
 SOLUTION CODE EvenDigitSum.cpp
+
+
+### Q26
+Given an integer n, return true if it is a power of two. Otherwise, return false.
+
+[Reference](https://leetcode.com/problems/power-of-two/)
+
+
+SOLUTION CODE Power.cpp
