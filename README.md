@@ -253,3 +253,12 @@ Given an integer n, return true if it is a power of two. Otherwise, return false
 
 
 SOLUTION CODE Power.cpp
+
+
+### Q27
+Write a function that reverses a string. The input string is given as an array of characters s.
+
+[Reference](https://leetcode.com/problems/reverse-string/)
+
+
+SOLUTION CODE ReverseString.cpp
