@@ -262,3 +262,12 @@ Write a function that reverses a string. The input string is given as an array o
 
 
 SOLUTION CODE ReverseString.cpp
+
+
+### Q28
+Implement pow(x, n), which calculates x raised to the power n (i.e., xn).
+
+[Reference](https://leetcode.com/problems/powx-n/)
+
+
+SOLUTION CODE Pow.cpp
