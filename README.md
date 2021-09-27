@@ -271,3 +271,12 @@ Implement pow(x, n), which calculates x raised to the power n (i.e., xn).
 
 
 SOLUTION CODE Pow.cpp
+
+
+### Q29
+Given a non-negative integer x, compute and return the square root of x.
+
+[Reference](https://leetcode.com/problems/sqrtx/)
+
+
+SOLUTION CODE Sqrt.cpp
