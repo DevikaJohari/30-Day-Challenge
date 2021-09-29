@@ -280,3 +280,12 @@ Given a non-negative integer x, compute and return the square root of x.
 
 
 SOLUTION CODE Sqrt.cpp
+
+
+### Q30
+Given an integer array nums, find the contiguous subarray (containing at least one number) which has the largest sum and return its sum.
+
+[Reference](https://leetcode.com/problems/maximum-subarray/)
+
+
+SOLUTION CODE MaxSubstring.cpp
